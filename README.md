@@ -1,0 +1,2 @@
+# Programming-Foundations-Data-Structures
+Once you get past simple programs with one or two variables, you'll use data structures to store the values in your applications. Data structures are like containers—there's one for every kind of data. While structures like arrays and queues are sometimes taken for granted, a deeper understanding is vital for any programmer who wants to know what's going on "under the hood" and understand how the choices they've made impact the performance and efficiency of their applications.
